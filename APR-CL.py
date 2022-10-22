@@ -420,6 +420,7 @@ def APRtest_step4(p, k, q, N):
 
 def APRtest(N):
     t_list = [2,12,60,180,840,1260,1680,2520,5040,15120,55440,110880,720720,1441440,4324320,24504480,73513440]
+    #From page 302 of https://www.math.leidenuniv.nl/~hwl/PUBLICATIONS/1984a/art.pdf
 
     if N<=3:
         return False
