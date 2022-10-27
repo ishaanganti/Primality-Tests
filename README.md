@@ -5,3 +5,7 @@ Sources/Inspiration:
 https://www.math.leidenuniv.nl/~hwl/PUBLICATIONS/1984a/art.pdf
 “Implementation of a New Primality Test” by H. Cohen and A.K. Lenstra
 FLINT (Fast Library for Number Theory) source code (https://github.com/wbhart/flint2/tree/trunk/aprcl)
+
+# Miller-Rabin-
+
+A simple implementation of the Miller Rabin primality test featuring a timer to compare runtimes. 
